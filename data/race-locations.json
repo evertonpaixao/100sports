@@ -1,0 +1,58 @@
+[
+  {
+    "id": "race-1",
+    "city": "Brasília",
+    "state": "DF",
+    "date": "10 Ago, 2026",
+    "description": "Corra pela Esplanada dos Ministérios e sinta a grandeza da capital federal.",
+    "image": "./assets/location_section_brasilia.jpg",
+    "distance": "5k / 10k",
+    "featured": true,
+    "href": "#",
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "race-2",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "date": "14 Set, 2026",
+    "description": "O visual inesquecível de correr com o Cristo Redentor abençoando cada passo.",
+    "image": "./assets/location_section_riodejaneiro.jpg",
+    "distance": "5k / 10k",
+    "href": "#",
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "race-3",
+    "city": "Vitória",
+    "state": "ES",
+    "date": "18 Out, 2026",
+    "description": "Brisa do mar e paisagens capixabas em um percurso único pela capital.",
+    "image": "./assets/location_section_vitoria.jpg",
+    "distance": "5k / 10k",
+    "href": "#",
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "race-4",
+    "city": "Palmas",
+    "state": "TO",
+    "date": "20 Mai, 2026",
+    "description": "O calor e a energia do coração do Brasil em uma corrida inesquecível.",
+    "image": "./assets/location_section_palmas.png",
+    "distance": "5k / 10k",
+    "href": "#",
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "race-5",
+    "city": "Campina Grande",
+    "state": "PB",
+    "date": "07 Jun, 2026",
+    "description": "A força do Nordeste paraibano em cada quilômetro do percurso.",
+    "image": "./assets/location_section_campina_grande.png",
+    "distance": "5k / 10k",
+    "href": "#",
+    "inscriptionUrl": "#"
+  }
+]

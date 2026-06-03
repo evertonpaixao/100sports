@@ -1,0 +1,13 @@
+{
+  "sectionTitle": { "before": "Potencialize sua", "highlight": "Performance." },
+  "description": "Suplementos premium selecionados para cada fase do seu treino e da sua corrida.",
+  "items": [
+    { "id": "choco-energy", "name": "Choco Energy", "imageUrl": "./assets/products_section_chocoenergy.jpg", "imageAlt": "Choco Energy — suplemento energético", "buyUrl": "#" },
+    { "id": "creatina", "name": "Creatina Monohidratada", "imageUrl": "./assets/products_section_creatina.jpg", "imageAlt": "Creatina Monohidratada", "buyUrl": "#" },
+    { "id": "kit", "name": "Kit Completo", "imageUrl": "./assets/products_section_kit.jpg", "imageAlt": "Kit completo de suplementos", "buyUrl": "#" },
+    { "id": "choco-energy-2", "name": "Choco Energy", "imageUrl": "./assets/products_section_chocoenergy.jpg", "imageAlt": "Choco Energy — suplemento energético", "buyUrl": "#" },
+    { "id": "creatina-2", "name": "Creatina Monohidratada", "imageUrl": "./assets/products_section_creatina.jpg", "imageAlt": "Creatina Monohidratada", "buyUrl": "#" },
+    { "id": "kit-2", "name": "Kit Completo", "imageUrl": "./assets/products_section_kit.jpg", "imageAlt": "Kit completo de suplementos", "buyUrl": "#" }
+  ],
+  "buyButtonText": "Comprar"
+}

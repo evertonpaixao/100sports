@@ -1,0 +1,35 @@
+[
+  {
+    "id": "precision",
+    "title": "A corrida da sua vida",
+    "description": "Sinta o asfalto, a multidão, a descarga de adrenalina — cada quilômetro é uma história que você nunca vai parar de contar.",
+    "image": "./assets/benefits_section_race.jpg",
+    "href": "#",
+    "badges": [
+      { "id": "b1", "label": "Dia de Prova" },
+      { "id": "b2", "label": "Recorde Pessoal" }
+    ]
+  },
+  {
+    "id": "management",
+    "title": "Café da manhã pré-prova & zona de energia",
+    "description": "Comece forte. Reúna-se com milhares de pessoas na nossa vila do amanhecer, animada pelos melhores chefs e marcas locais.",
+    "image": "./assets/benefits_section_cafe.jpg",
+    "href": "#",
+    "badges": [
+      { "id": "b3", "label": "Energia Matinal" },
+      { "id": "b4", "label": "Comunidade" }
+    ]
+  },
+  {
+    "id": "sustainable",
+    "title": "Shows ao vivo & ativações de marcas",
+    "description": "De atrações principais a palcos imersivos — a linha de chegada é só o começo da celebração.",
+    "video": "./assets/benefits_section_show.mp4",
+    "href": "#",
+    "badges": [
+      { "id": "b5", "label": "Música Ao Vivo" },
+      { "id": "b6", "label": "Ativações" }
+    ]
+  }
+]

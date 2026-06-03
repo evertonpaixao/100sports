@@ -1,0 +1,17 @@
+{
+  "logoSrc": "./assets/100sports_logo_final.svg",
+  "logoAlt": "100% Sports",
+  "navItems": [
+    { "id": "inicio", "label": "Início", "targetId": "section-hero" },
+    { "id": "eventos", "label": "Próximos Eventos", "targetId": "section-locations" },
+    { "id": "galerias", "label": "Galerias", "targetId": "section-gallery" },
+    { "id": "corrida", "label": "A Corrida", "targetId": "section-race-resume" },
+    { "id": "calendario", "label": "Calendário", "targetId": "section-calendar" }
+  ],
+  "navKmLabel": "0KM",
+  "navCtaText": "QUERO ME INSCREVER",
+  "ctaUrl": "inscrever.php",
+  "whatsappHref": "https://api.whatsapp.com/send?1=pt_br&phone=5571999750087",
+  "whatsappAriaLabel": "Fale conosco pelo WhatsApp",
+  "heroVideoDesktop": "./assets/corrida_100sports_video.mp4"
+}

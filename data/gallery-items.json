@@ -1,0 +1,12 @@
+[
+  { "id": "item-1", "type": "image", "src": "./assets/gallery_section_photo01.jpg", "alt": "Galeria 1", "label": "Foco Absoluto", "sublabel": "Preparação" },
+  { "id": "item-2", "type": "image", "src": "./assets/gallery_section_photo02.jpg", "alt": "Galeria 2", "label": "Resistência", "sublabel": "Momento da Largada" },
+  { "id": "item-3", "type": "video", "src": "./assets/gallery_section_video01.mp4", "alt": "Video 1", "label": "Corra. Viva.", "sublabel": "Pura Adrenalina" },
+  { "id": "item-4", "type": "image", "src": "./assets/gallery_section_photo03.jpg", "alt": "Galeria 3", "label": "Aqueça o Corpo", "sublabel": "Movimento" },
+  { "id": "item-5", "type": "image", "src": "./assets/gallery_section_photo04.jpg", "alt": "Galeria 4", "label": "Na Pista", "sublabel": "Ritmo Constante" },
+  { "id": "item-6", "type": "video", "src": "./assets/gallery_section_video02.mp4", "alt": "Video 2", "label": "Visão do Circuito", "sublabel": "Cada Quilômetro" },
+  { "id": "item-7", "type": "image", "src": "./assets/gallery_section_photo05.jpg", "alt": "Galeria 5", "label": "Força Extra", "sublabel": "Superação" },
+  { "id": "item-8", "type": "image", "src": "./assets/gallery_section_photo06.jpg", "alt": "Galeria 6", "label": "Última Milha", "sublabel": "Desafio" },
+  { "id": "item-9", "type": "video", "src": "./assets/gallery_section_video03.mp4", "alt": "Video 3", "label": "Linha de Chegada", "sublabel": "Conquista" },
+  { "id": "item-10", "type": "image", "src": "./assets/gallery_section_photo07.jpg", "alt": "Galeria 7", "label": "100% Você", "sublabel": "A Experiência" }
+]

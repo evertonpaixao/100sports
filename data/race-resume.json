@@ -1,0 +1,26 @@
+[
+  {
+    "id": "health",
+    "subtitle": "SAÚDE & SUPERAÇÃO",
+    "title": "Cada km conta uma nova história",
+    "description": "A corrida é mais do que um esporte, é um estilo de vida. Supere seus próprios limites, cuide do seu corpo e sinta a energia indescritível de cruzar a linha de chegada com um novo recorde pessoal.",
+    "video": "./assets/resume_video_01.mp4",
+    "reverse": false
+  },
+  {
+    "id": "awards",
+    "subtitle": "RECONHECIMENTO",
+    "title": "A glória materializada",
+    "description": "Sua dedicação merece ser celebrada em grande estilo. Preparamos kits exclusivos, troféus e medalhas de alta qualidade que eternizam a sua conquista e o seu suor derramado no asfalto.",
+    "video": "./assets/resume_video_02.mp4",
+    "reverse": true
+  },
+  {
+    "id": "party",
+    "subtitle": "100% FOLIA",
+    "title": "Onde o asfalto encontra a festa",
+    "description": "Após a superação, a comemoração! Um show exclusivo e inesquecível com Rafa e Pipo Marques e o lendário Bell Marques. Uma energia única que só a 100% Você pode proporcionar.",
+    "video": "./assets/resume_video_03.mp4",
+    "reverse": false
+  }
+]

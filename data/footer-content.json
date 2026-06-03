@@ -1,0 +1,75 @@
+{
+  "brandDescription": "A maior comunidade de corrida de rua do Brasil. Conectando corredores, cidades e histórias em cada quilômetro percorrido.",
+  "contact": {
+    "address": "São Paulo, SP — Brasil",
+    "email": "contato@100voce.com.br",
+    "phone": "+55 (11) 8 8999-9999"
+  },
+  "socialLinks": [
+    { "label": "YouTube", "href": "#" },
+    { "label": "Instagram", "href": "#" },
+    { "label": "X / Twitter", "href": "#" },
+    { "label": "Facebook", "href": "#" }
+  ],
+  "newsletter": {
+    "label": "Newsletter",
+    "title": { "before": "Fique por dentro de", "highlight": "cada largada." },
+    "description": "Inscreva-se e receba em primeira mão os calendários de provas, dicas de treino e ofertas exclusivas para corredores cadastrados.",
+    "formAction": "./api/newsletter.php",
+    "formMethod": "post",
+    "buttonText": "Cadastrar",
+    "disclaimer": "Ao se cadastrar, você concorda com nossa Política de Privacidade. Cancele a qualquer momento.",
+    "successMessage": "Obrigado! Você receberá nossas novidades em breve."
+  },
+  "footerLinks": {
+    "corrida": {
+      "title": "A Corrida",
+      "links": [
+        { "label": "Próximas Provas", "href": "#" },
+        { "label": "Calendário de Eventos", "href": "#" },
+        { "label": "Como Participar", "href": "#" },
+        { "label": "Categorias", "href": "#" },
+        { "label": "Resultados", "href": "#" }
+      ]
+    },
+    "suporte": {
+      "title": "Suporte",
+      "links": [
+        { "label": "Entrar em Contato", "href": "#" },
+        { "label": "Central de Ajuda", "href": "#" },
+        { "label": "Inscrições", "href": "#" },
+        { "label": "Kit do Corredor", "href": "#" },
+        { "label": "Logística no Dia", "href": "#" }
+      ]
+    },
+    "empresa": {
+      "title": "Empresa",
+      "links": [
+        { "label": "Sobre a 100% Você", "href": "#" },
+        { "label": "Imprensa", "href": "#" },
+        { "label": "Parcerias", "href": "#" },
+        { "label": "Trabalhe Conosco", "href": "#" },
+        { "label": "Programa de Embaixadores", "href": "#" }
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        { "label": "Política de Privacidade", "href": "#" },
+        { "label": "Termos e Condições", "href": "#" },
+        { "label": "Política de Cancelamento", "href": "#" },
+        { "label": "Termos de Serviço", "href": "#" },
+        { "label": "Cookies", "href": "#" }
+      ]
+    }
+  },
+  "navItems": [
+    { "label": "Inicio", "href": "#section-hero" },
+    { "label": "Galerias", "href": "#section-gallery" },
+    { "label": "Calendário", "href": "#section-calendar" },
+    { "label": "A Corrida", "href": "#section-race-resume" }
+  ],
+  "logoSrc": "./assets/100sports_logo_final.svg",
+  "logoAlt": "100% Sports",
+  "backgroundText": "100% VOCÊ"
+}

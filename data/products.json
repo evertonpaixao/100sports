@@ -1,0 +1,41 @@
+[
+  {
+    "id": "choco",
+    "title": "Choco Energy",
+    "subtitle": "Principal suplemento da marca.",
+    "description": "O Choco Energy sabor Chocolate foi pensado para oferecer doses diárias de energia, concentração e foco.",
+    "features": ["Energia Duradoura", "Foco e Concentração", "Zero Açúcares e Lactose"],
+    "badge": { "label": "Destaque", "value": "Sabor Surreal" },
+    "price": "A partir de R$249",
+    "image": "./assets/products_section_chocoenergy.jpg",
+    "variant": "large",
+    "ctaLabel": "Comprar Choco Energy",
+    "href": "#",
+    "buyUrl": "#"
+  },
+  {
+    "id": "creatina",
+    "title": "Creatina Monohidratada",
+    "subtitle": "Força real. Ciência comprovada.",
+    "badge": { "label": "Nova Fórmula", "value": "Micronizada" },
+    "price": "A partir de R$149",
+    "image": "./assets/products_section_creatina.jpg",
+    "variant": "medium",
+    "ctaLabel": "Comprar Creatina",
+    "href": "#",
+    "buyUrl": "#"
+  },
+  {
+    "id": "stack",
+    "title": "Monte Seu Stack — Economize até 30%",
+    "subtitle": "Tudo o que o seu corpo precisa. Nada do que não precisa.",
+    "description": "Combine whey, creatina e pré-treino para resultados máximos e o melhor custo-benefício. Coqueteleira grátis em todos os kits.",
+    "badge": { "label": "Oferta Limitada", "value": "Kit Completo" },
+    "price": "A partir de R$449",
+    "image": "./assets/products_section_kit.jpg",
+    "variant": "full",
+    "ctaLabel": "Ver Todos os Kits",
+    "href": "#",
+    "buyUrl": "#"
+  }
+]

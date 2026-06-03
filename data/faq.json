@@ -1,0 +1,56 @@
+[
+  {
+    "id": "q1",
+    "question": "A corrida acontece em quais cidades?",
+    "answer": "A corrida acontece em São Paulo, Rio de Janeiro, Belo Horizonte, Curitiba e Porto Alegre. Cada cidade tem seu próprio percurso, largada e estrutura de apoio completa.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q2",
+    "question": "Quais são as distâncias disponíveis?",
+    "answer": "Oferecemos percursos de 5 km e 10 km. Todas as distâncias estão disponíveis nas cinco cidades participantes.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q3",
+    "question": "Como faço minha inscrição?",
+    "answer": "As inscrições são feitas exclusivamente pelo site oficial. Escolha a cidade, a distância desejada e complete o pagamento. Após a confirmação, você receberá o kit do corredor pelo correio.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q4",
+    "question": "O que está incluso no kit do corredor?",
+    "answer": "O kit inclui camiseta oficial do evento, número de peito com chip de cronometragem, sacochila e guia de percurso com os pontos de hidratação e apoio da sua cidade.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q5",
+    "question": "Há suporte médico durante o evento?",
+    "answer": "Sim. Cada cidade conta com equipes de primeiros socorros distribuídas ao longo do percurso, postos de hidratação a cada 2 km e ambulâncias de prontidão nos pontos críticos.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q6",
+    "question": "Posso correr em uma cidade diferente da que me inscrevi?",
+    "answer": "Não é possível trocar de cidade após a inscrição confirmada. Caso precise alterar, entre em contato com nosso suporte com pelo menos 30 dias de antecedência para análise.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q7",
+    "question": "Qual é a política de cancelamento e reembolso?",
+    "answer": "Cancelamentos realizados até 45 dias antes do evento têm reembolso de 80% do valor pago. Após esse prazo, não há reembolso, mas é possível transferir a vaga para outra pessoa.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q8",
+    "question": "Tem categoria para iniciantes?",
+    "answer": "Sim! O percurso de 5 km é ideal para quem está começando. Não exigimos tempo mínimo e o evento é pensado para acolher corredores de todos os níveis.",
+    "detailsUrl": "#"
+  },
+  {
+    "id": "q9",
+    "question": "Como funciona a premiação?",
+    "answer": "Os três primeiros colocados de cada distância e categoria (masculino e feminino) em cada cidade recebem troféu e prêmios em dinheiro. Todos os participantes que completam o percurso recebem medalha de finisher.",
+    "detailsUrl": "#"
+  }
+]

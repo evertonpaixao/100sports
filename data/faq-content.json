@@ -1,0 +1,18 @@
+{
+  "label": "FAQ",
+
+  "title": {
+    "before": "Tire suas",
+    "highlight": "dúvidas",
+    "after": "e questões"
+  },
+
+  "description": "Encontre as respostas para as perguntas mais frequentes sobre o evento em cada cidade.",
+
+  "contactText": "Fale com nossa equipe e tire todas as suas dúvidas antes de se inscrever.",
+
+  "buttonText": "Falar Agora",
+
+  "buttonUrl": "https://wa.me/5500000000000"
+
+}

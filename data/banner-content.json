@@ -1,0 +1,9 @@
+{
+  "heroVideoDesktop": "./assets/corrida_100sports_video.mp4",
+  "heroVideoMobile": "./assets/hero_section_mainvideo.mp4",
+  "badge": "A MELHOR CORRIDA DA SUA VIDA",
+  "title": ["Cada passo", "redefine o seu limite.", "Seja 100% Você."],
+  "description": "Participe dos maiores circuitos de corrida do Brasil. Sinta a energia, desafie seus limites e viva experiências que vão além da linha de chegada.",
+  "ctaText": "QUERO ME INSCREVER",
+  "ctaUrl": "inscrever.php"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "salvador",
+    "city": "Salvador",
+    "title": "Corrida do Pelô",
+    "distance": "5K / 10K",
+    "date": "22 Jun 2025",
+    "description": "Um percurso vibrante pelo Pelourinho, patrimônio histórico tombado pela UNESCO.",
+    "imageUrl": "./assets/calendar_section_salvador.jpg",
+    "accent": "#f59e0b",
+    "cx": 3560,
+    "cy": 1920,
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "belo-horizonte",
+    "city": "Belo Horizonte",
+    "title": "Desafio das Alterosas",
+    "distance": "10K",
+    "date": "05 Jul 2025",
+    "description": "Uma corrida desafiadora pelas colinas e horizontes da capital mineira.",
+    "imageUrl": "./assets/calendar_section_belohorizonte.jpg",
+    "accent": "#70643e",
+    "cx": 3140,
+    "cy": 2600,
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "rio",
+    "city": "Rio de Janeiro",
+    "title": "Corrida Carioca",
+    "distance": "5K / 10K",
+    "date": "28 Mai 2025",
+    "description": "Uma corrida icônica pela orla de Copacabana com vista para o Pão de Açúcar.",
+    "imageUrl": "./assets/calendar_section_riodejaneiro.jpg",
+    "accent": "#34d399",
+    "cx": 3200,
+    "cy": 2880,
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "sao-paulo",
+    "city": "São Paulo",
+    "title": "Corrida Paulistana",
+    "distance": "5K / 10K",
+    "date": "15 Mai 2025",
+    "description": "Cruze o coração financeiro do Brasil, passando pela Avenida Paulista e o Parque Ibirapuera.",
+    "imageUrl": "./assets/calendar_section_saopaulo.jpg",
+    "accent": "#a78bfa",
+    "cx": 2940,
+    "cy": 2940,
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "curitiba",
+    "city": "Curitiba",
+    "title": "Corrida das Araucárias",
+    "distance": "5K / 10K",
+    "date": "14 Ago 2025",
+    "description": "Explore os icônicos parques e a arquitetura modernista de Curitiba.",
+    "imageUrl": "./assets/calendar_section_curitiba.jpg",
+    "accent": "#60a5fa",
+    "cx": 2720,
+    "cy": 3120,
+    "inscriptionUrl": "#"
+  },
+  {
+    "id": "florianopolis",
+    "city": "Florianópolis",
+    "title": "Ilha da Magia Run",
+    "distance": "5K / 10K",
+    "date": "12 Jun 2025",
+    "description": "Percorra as praias paradisíacas e trilhas costeiras da Ilha da Magia.",
+    "imageUrl": "./assets/calendar_section_florianopolis.jpg",
+    "accent": "#f472b6",
+    "cx": 2800,
+    "cy": 3320,
+    "inscriptionUrl": "#"
+  }
+]

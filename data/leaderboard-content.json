@@ -1,0 +1,33 @@
+{
+  "sectionLabel": "CLASSIFICAÇÃO 2026",
+  "title": { "before": "Melhores", "highlight": "Tempos" },
+  "categories": ["geral", "masculino", "feminino"],
+  "categoryLabels": { "geral": "Geral", "masculino": "Masculino", "feminino": "Feminino" },
+  "leaderboard": {
+    "geral": [
+      { "rank": 1, "name": "Marcelo Lima", "city": "Belo Horizonte, MG", "time": "00:31:42", "pace": "3'10\"/km", "distance": "10K" },
+      { "rank": 2, "name": "Ana Carolina Souza", "city": "São Paulo, SP", "time": "00:32:18", "pace": "3'13\"/km", "distance": "10K" },
+      { "rank": 3, "name": "Ricardo Costa", "city": "Rio de Janeiro, RJ", "time": "00:33:05", "pace": "3'18\"/km", "distance": "10K" },
+      { "rank": 4, "name": "Fernanda Oliveira", "city": "Curitiba, PR", "time": "00:34:22", "pace": "3'26\"/km", "distance": "10K" },
+      { "rank": 5, "name": "Pedro Bastos", "city": "Salvador, BA", "time": "00:34:58", "pace": "3'29\"/km", "distance": "10K" }
+    ],
+    "masculino": [
+      { "rank": 1, "name": "Marcelo Lima", "city": "Belo Horizonte, MG", "time": "00:31:42", "pace": "3'10\"/km", "distance": "10K" },
+      { "rank": 2, "name": "Ricardo Costa", "city": "Rio de Janeiro, RJ", "time": "00:33:05", "pace": "3'18\"/km", "distance": "10K" },
+      { "rank": 3, "name": "Pedro Bastos", "city": "Salvador, BA", "time": "00:34:58", "pace": "3'29\"/km", "distance": "10K" },
+      { "rank": 4, "name": "Lucas Mendes", "city": "Florianópolis, SC", "time": "00:35:41", "pace": "3'34\"/km", "distance": "10K" },
+      { "rank": 5, "name": "Bruno Almeida", "city": "Brasília, DF", "time": "00:36:12", "pace": "3'37\"/km", "distance": "10K" }
+    ],
+    "feminino": [
+      { "rank": 1, "name": "Ana Carolina Souza", "city": "São Paulo, SP", "time": "00:32:18", "pace": "3'13\"/km", "distance": "10K" },
+      { "rank": 2, "name": "Fernanda Oliveira", "city": "Curitiba, PR", "time": "00:34:22", "pace": "3'26\"/km", "distance": "10K" },
+      { "rank": 3, "name": "Camila Ferreira", "city": "Porto Alegre, RS", "time": "00:35:55", "pace": "3'35\"/km", "distance": "10K" },
+      { "rank": 4, "name": "Juliana Santos", "city": "Recife, PE", "time": "00:36:30", "pace": "3'39\"/km", "distance": "10K" },
+      { "rank": 5, "name": "Beatriz Campos", "city": "Campinas, SP", "time": "00:37:08", "pace": "3'42\"/km", "distance": "10K" }
+    ]
+  },
+  "stravaUrl": "https://www.strava.com",
+  "stravaCta": "Ver classificação completa no Strava",
+  "metaUpdated": "Atualizado em 12 mai. 2026",
+  "metaAthletes": "12.482 Atletas"
+}
